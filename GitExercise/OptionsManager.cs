@@ -32,4 +32,4 @@ namespace GitExercise
             Console.WriteLine($"{a} % {b} = {a % b}");
         }
     }
-}
+}   
